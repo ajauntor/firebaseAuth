@@ -23,7 +23,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>this is React App</h1>
+      <h3>User Authentication</h3>
 
     <button onClick={handleSignIn}>Sign in</button>
 
