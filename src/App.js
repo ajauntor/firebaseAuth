@@ -23,9 +23,9 @@ function App() {
 
   return (
     <div className="App">
-      <h3>User Authentication</h3>
+      <h3 style={{fontSize:'50px', letterSpacing:'6px'}}>User Authentication</h3>
 
-    <button onClick={handleSignIn}>Sign in</button>
+    <button style={{padding:'8px 15px'}} onClick={handleSignIn}>SIGN IN</button>
 
     </div>
   );
